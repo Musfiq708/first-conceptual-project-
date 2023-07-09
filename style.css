@@ -65,3 +65,15 @@
 .dott:hover{
     color: aqua;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 20px;
+    
+}
+.about-title{
+    text-align: center;
+    padding: 20px;
+}
